@@ -9,16 +9,16 @@ Once you have downloaded the project to your machine drag and drop the "index.ht
 
 | V1.1
 
- . You can now restart the sim 
+ - You can now restart the sim 
 
- . Ability to delete PacMen 
+ - Ability to delete PacMen 
 
 
 | V1.0
 
- . Play and Stop buttons to control sim 
+ - Play and Stop buttons to control sim 
   
- . Ability to add multiple PacMen
+ - Ability to add multiple PacMen
  
 
 <h2>Licencing info: </h2>
