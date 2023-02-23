@@ -5,7 +5,7 @@ When PacMan goes a little outside the box what do you get? PacMen, a web based g
 
 Once you have downloaded the project to your machine drag and drop the "index.html" file into your browser and enjoy the game. 
 
-<h2>Roadmap:</h2>
+##Roadmap:
 
 | V1.1
 
@@ -21,7 +21,7 @@ Once you have downloaded the project to your machine drag and drop the "index.ht
  - Ability to add multiple PacMen
  
 
-<h2>Licencing info: </h2>
+##Licencing info: 
 
 MIT License
 
